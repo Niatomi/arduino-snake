@@ -1,0 +1,7 @@
+{
+  "sketch": "snake.ino",
+  "output": "build",
+  "board": "arduino:avr:uno",
+  "port": "COM6",
+  "programmer": "arduino:avrispmkii"
+}
